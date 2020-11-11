@@ -1,0 +1,30 @@
+body {
+    font-family: 'Spinnaker', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 800;
+}
+
+h2 {
+    font-size:40px;
+    font-weight: 600;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+.fecha {
+    color: grey;
+    font-size: 13px;
+}
+
+.in {
+    color: green;
+}
+
+.out {
+    color: red;
+}
